@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eaftypolic.github.io/sitemap
+Sitemap: https://eaftypolic.github.io/app/sitemap
+Sitemap: https://eaftypolic.github.io/assets/sitemap
+Sitemap: https://eaftypolic.github.io/css/sitemap
+Sitemap: https://eaftypolic.github.io/includes/sitemap
+Sitemap: https://eaftypolic.github.io/item/sitemap
+Sitemap: https://eaftypolic.github.io/src/sitemap
